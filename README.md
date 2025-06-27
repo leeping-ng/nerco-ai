@@ -15,12 +15,15 @@ The AI Co-Pilot for Home, Building and Industrial Automation
 ```
 docker run -p 3000:3000 public.ecr.aws/x8e5h7k9/nerco-ai/ai-assistant:latest
 ```
-Get Anthropic API KEY
-   - Go to https://console.anthropic.com/
-   - Sign up for an account if you don't have one
-   - Navigate to API Keys section
-   - Create a new API key
-   - Copy the API key and paste it into Nerco AI Assistant when prompted
+
+### Get OpenAI API Key
+1. Go to [OpenAI Platform](https://platform.openai.com/)
+2. Sign up or log in to your account
+3. Navigate to [API Keys](https://platform.openai.com/api-keys)
+4. Click "Create new secret key"
+5. Copy the API key and paste it into Nerco AI Assistant when prompted
+
+> **Note:** You may need to add payment information to your OpenAI account to use the API.
 
 
 
